@@ -1,0 +1,7 @@
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\bin\Debug\TriangleTests.dll
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\bin\Debug\TriangleTests.pdb
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\bin\Debug\Triangle.exe
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\bin\Debug\Triangle.pdb
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\obj\Debug\TriangleTests.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\obj\Debug\TriangleTests.dll
+c:\Users\user\documents\visual studio 2013\Projects\Triangle\TriangleTests\obj\Debug\TriangleTests.pdb
