@@ -85,6 +85,7 @@ public class TriangleTest {
 
         //rownoboczny
         trg = new Triangle(4, 4, 4);
+        //rownoboczny to tez rownoramienny
         assertEquals(true,trg.is_isosceles());
 
 
