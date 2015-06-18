@@ -19,7 +19,7 @@ public class CarPanelTest {
         assertEquals(true,cp.isWARN());
 
         //PT1 s=1, t=0.01, flaga=0
-        assertEquals(100, cp.Predkosc(1, 0.1),10^(-2));
+        assertEquals(10, cp.Predkosc(1, 0.1),10^(-2));
         assertEquals(false,cp.isWARN());
 
         //PT1 s=120.01, t=1, flaga=1
@@ -31,11 +31,11 @@ public class CarPanelTest {
         assertEquals(false,cp.isWARN());
 
         //PT1 s=-0.01, t=0.02, flaga=0
-        assertEquals(-2, cp.Predkosc(-0.01, 0.02),10^(-2));
+        assertEquals(-0.5, cp.Predkosc(-0.01, 0.02),10^(-2));
         assertEquals(false,cp.isWARN());
 
         //PT1 s=120, t=1.01, flaga=0
-        assertEquals(121.2, cp.Predkosc(120,1.01),10^(-2));
-        assertEquals(true,cp.isWARN());
+        assertEquals(118.81188118811882, cp.Predkosc(120,1.01),10^(-2));
+        assertEquals(false,cp.isWARN());
     }
 }
