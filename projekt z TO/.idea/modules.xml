@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityZero/ActivityZero.iml" filepath="$PROJECT_DIR$/ActivityZero/ActivityZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTree/BTree.iml" filepath="$PROJECT_DIR$/BTree/BTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataCenterCooling/DataCenterCooling.iml" filepath="$PROJECT_DIR$/DataCenterCooling/DataCenterCooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindLargestSubMatrix/FindLargestSubMatrix.iml" filepath="$PROJECT_DIR$/FindLargestSubMatrix/FindLargestSubMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntArrayOps/IntArrayOps.iml" filepath="$PROJECT_DIR$/IntArrayOps/IntArrayOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LRU/LRU.iml" filepath="$PROJECT_DIR$/LRU/LRU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathOps/MathOps.iml" filepath="$PROJECT_DIR$/MathOps/MathOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinCuttingWords/MinCuttingWords.iml" filepath="$PROJECT_DIR$/MinCuttingWords/MinCuttingWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MirrorMaze/MirrorMaze.iml" filepath="$PROJECT_DIR$/MirrorMaze/MirrorMaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PuzzleCoding/PuzzleCoding.iml" filepath="$PROJECT_DIR$/PuzzleCoding/PuzzleCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RePAck/RePAck.iml" filepath="$PROJECT_DIR$/RePAck/RePAck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringOps/StringOps.iml" filepath="$PROJECT_DIR$/StringOps/StringOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriangleFunc/TriangleFunc.iml" filepath="$PROJECT_DIR$/TriangleFunc/TriangleFunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allSubsets/allSubsets.iml" filepath="$PROJECT_DIR$/allSubsets/allSubsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boggleWords/boggleWords.iml" filepath="$PROJECT_DIR$/boggleWords/boggleWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boldTree/boldTree.iml" filepath="$PROJECT_DIR$/boldTree/boldTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin/coin.iml" filepath="$PROJECT_DIR$/coin/coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find2DArray/find2DArray.iml" filepath="$PROJECT_DIR$/find2DArray/find2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isNumber/isNumber.iml" filepath="$PROJECT_DIR$/isNumber/isNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longPalindromicString/longPalindromicString.iml" filepath="$PROJECT_DIR$/longPalindromicString/longPalindromicString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxDist/maxDist.iml" filepath="$PROJECT_DIR$/maxDist/maxDist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permutationStr/permutationStr.iml" filepath="$PROJECT_DIR$/permutationStr/permutationStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumZero/sumZero.iml" filepath="$PROJECT_DIR$/sumZero/sumZero.iml" />
+    </modules>
+  </component>
+</project>
