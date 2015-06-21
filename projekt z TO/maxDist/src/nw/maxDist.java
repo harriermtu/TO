@@ -49,9 +49,6 @@ public class maxDist {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your int array : ");
         /* testy
-        wyjatek dla tablicy jednoelemtowej, np 1
-        np -1
-        np 4
 
         w przypadku wpisania dowolnego stringa wypisuje jakas z gory ustalona tablice
          */

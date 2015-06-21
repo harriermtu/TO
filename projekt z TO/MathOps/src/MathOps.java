@@ -121,7 +121,7 @@ public class MathOps {
         //System.out.println("divide: " + divide(-2147483648, -2147483648));
 
         //dzielenie przez zero
-        //System.out.println("divide: " + divide1(2, 0));
+        System.out.println("divide: " + divide1(2, 0));
 
 
     }
